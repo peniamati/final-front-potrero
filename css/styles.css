@@ -8026,6 +8026,7 @@ textarea.form-control-lg {
 
 .text-uppercase {
   text-transform: uppercase !important;
+  word-wrap: break-word;
 }
 
 .text-capitalize {
